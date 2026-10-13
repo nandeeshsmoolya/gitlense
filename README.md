@@ -88,3 +88,7 @@ GitLens helped me identify who changed specific lines of code and when the chang
 ### 3. Why are collaborative commits valuable?
 
 Collaborative commits demonstrate that a student can use Git and GitHub and work effectively with other developers on a shared project.
+
+## Projects
+
+* **Network Traffic Analyzer:** A Python project that analyzes network packets and detects suspicious traffic patterns.
